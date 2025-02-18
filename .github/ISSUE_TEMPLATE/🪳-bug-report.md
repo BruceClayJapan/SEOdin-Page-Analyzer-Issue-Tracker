@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: "\U0001FAB3 Bug report"
 about: Unexpected issues?
 title: ''
 labels: bug/障害
